@@ -1,7 +1,7 @@
 # NAT-fairseq
 NAT model based on fairseq
 
-# Requirests
+# Requirements
 Currently, only fairseq.
 
 # Run scripts' release coming soon.
