@@ -1,5 +1,5 @@
 # NAT-fairseq
-NAT model based on fairseq
+NAT model based on [fairseq](https://github.com/pytorch/fairseq)
 
 # Requirements
 Currently, only fairseq.
